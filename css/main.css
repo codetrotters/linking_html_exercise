@@ -1,0 +1,19 @@
+.nav {
+	background: #bbb;
+	padding: 1em;
+}
+
+.footer {
+	background: #ddd;
+	padding: 1em;
+}
+
+.home {
+	color: red;
+	font-weight: bold;
+}
+
+.about {
+	color: green;
+	font-weight: bold;
+}
